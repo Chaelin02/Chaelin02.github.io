@@ -1,6 +1,17 @@
-##Chaelin02.github.io
 ## Welcome to GitHub Pages
 
+```java
+  System.out.println("Hello World");
+```
+- 목록1
+- 목록2
+
+| 학번 | 이름 |
+| --- | --- | 
+
+[내 홈페이지로 가기](https://Chaelin02.github.io)
+
+![내 포스터](me)
 You can use the [editor on GitHub](https://github.com/Chaelin02/Chaelin02.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
