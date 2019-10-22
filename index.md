@@ -11,7 +11,7 @@
 
 [내 홈페이지로 가기](https://Chaelin02.github.io)
 
-![내 포스터](me)
+![내 포스터](me.jpg)
 You can use the [editor on GitHub](https://github.com/Chaelin02/Chaelin02.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
